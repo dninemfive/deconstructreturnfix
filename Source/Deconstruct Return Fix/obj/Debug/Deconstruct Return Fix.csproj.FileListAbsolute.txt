@@ -1,0 +1,10 @@
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\bin\Debug\Deconstruct Return Fix.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\bin\Debug\Deconstruct Return Fix.pdb
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\bin\Debug\0Harmony.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\bin\Debug\Assembly-CSharp.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\bin\Debug\UnityEngine.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\obj\Debug\Deconstruct Return Fix.csprojResolveAssemblyReference.cache
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\obj\Debug\Deconstruct Return Fix.csproj.CoreCompileInputs.cache
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\obj\Debug\Deconstruct Return Fix.csproj.CopyComplete
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\obj\Debug\Deconstruct Return Fix.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\Deconstruct Return Fix\Deconstruct Return Fix\obj\Debug\Deconstruct Return Fix.pdb
