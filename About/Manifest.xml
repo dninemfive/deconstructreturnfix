@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-    <identifier>D9DRF</identifier>
+    <identifier>D9DeconstructReturnFix</identifier>
     <version>1.0.1</version>
     <dependencies/>
     <loadAfter/>
